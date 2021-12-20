@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>udp_chatter</name>
+  <version>1.0.0</version>
+  <description>The udp_chatter package</description>
+
+  <author email="srivatsasiddharth@gmail.com">Siddharth Srivatsa</author>
+  <maintainer email="srivatsasiddharth@gmail.com">Siddharth Srivatsa</maintainer>
+  <license>Sidd Copyright 2020-2021</license>
+
+  <!-- buildtool_depend>catkin</buildtool_depend -->
+
+  <depend>boost</depend>
+
+  <export/>
+
+</package>
