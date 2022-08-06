@@ -62,4 +62,4 @@ To publish a message to a different ip and port, run -
 The `udp_chatter` executable is a server / client used as a template.
 
 ## License
-Copyright (c) 2021 srsidd. Not to be distributed or used without prior approval.
+Copyright (c) 2021-2022 srsidd. Not to be distributed or used without prior approval.
